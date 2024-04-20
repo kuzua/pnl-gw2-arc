@@ -1,0 +1,9 @@
+2024-04-20 13:23:48.255: info: build 20240418.181233-524-x64
+2024-04-20 13:23:48.936: info: in process C:\Program Files (x86)\Steam\steamapps\common\Guild Wars 2\Gw2-64.exe, 0x7FF761DF1000-0x7FF764AFE000 (0xD2CE547C)
+2024-04-20 13:23:48.954: info: as addon C:\Program Files (x86)\Steam\steamapps\common\Guild Wars 2\addons\arcdps\gw2addon_arcdps.dll, 0x7FF985E21000-0x7FF985F4E000 (0xD889EE4A)
+2024-04-20 13:23:52.398: info: downloaded arcdps update: 15b3ce5484e4090fd04460354d6662f7
+2024-04-20 13:23:57.348: extensions: Mechanics 0x7FF98FE01000-0x7FF98FEAE000 (d3d9_arcdps_mechanics.dll, Feb 12 2023 00:25:34, 0x98AEF35B, 81004122)
+2024-04-20 13:23:57.499: extensions: BHUDrender 0x6AFF1000-0x6B1CF000 (arcdps_bhud.dll, 0.3.1, 0xB9E5A1B8, 20804)
+2024-04-20 13:23:57.551: extensions: Boon Table 0x7FF8F5CA1000-0x7FF8F5ED9000 (d3d9_arcdps_table.dll, 2.5.3.0, 0x24BDB5C4, 64003268)
+2024-04-20 13:23:57.637: extensions: killproof.me 0x7FF910F71000-0x7FF911218000 (d3d9_arcdps_killproof_me.dll, 2.13.1.0, 0x4654293B, 6BAF1938)
+2024-04-20 13:24:10.726: info: game exit
