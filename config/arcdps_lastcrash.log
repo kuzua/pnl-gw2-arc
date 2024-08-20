@@ -1,8 +1,10 @@
-2024-04-17 18:02:56.371: info: build 20240416.223538-524-x64
-2024-04-17 18:02:57.083: info: in process C:\Program Files (x86)\Steam\steamapps\common\Guild Wars 2\Gw2-64.exe, 0x7FF7C8381000-0x7FF7CB0C1000 (0x2F7BDC26)
-2024-04-17 18:02:57.102: info: as addon C:\Program Files (x86)\Steam\steamapps\common\Guild Wars 2\addons\arcdps\gw2addon_arcdps.dll, 0x7FF8F26A1000-0x7FF8F27CE000 (0xA893D5D5)
-2024-04-17 18:03:06.219: extensions: BHUDrender 0x6AE51000-0x6B02F000 (arcdps_bhud.dll, 0.3.1, 0xB9E5A1B8, 20804)
-2024-04-17 18:03:06.249: extensions: Mechanics 0x7FF981E51000-0x7FF981EFE000 (d3d9_arcdps_mechanics.dll, Feb 12 2023 00:25:34, 0x98AEF35B, 81004122)
-2024-04-17 18:03:06.363: extensions: killproof.me 0x7FF8E0D31000-0x7FF8E0FD8000 (d3d9_arcdps_killproof_me.dll, 2.13.1.0, 0x4654293B, 6BAF1938)
-2024-04-17 18:03:06.416: extensions: Boon Table 0x7FF8D4201000-0x7FF8D4439000 (d3d9_arcdps_table.dll, 2.5.3.0, 0x24BDB5C4, 64003268)
-2024-04-17 18:19:09.862: info: game exit
+2023-11-27 20:55:05.392: info: version 20231113.172221-507-x64
+2023-11-27 20:55:06.291: info: gw2 0x7FF735BD1000-0x7FF7386DA000 (0x6209BE53)
+2023-11-27 20:55:06.316: info: arcdps 0x7FFA77D71000-0x7FFA77E99000 (0x74DDBF62)
+2023-11-27 20:55:06.316: info: external d3d11
+2023-11-27 20:55:08.498: info: loading config from "C:\Program Files (x86)\Steam\steamapps\common\Guild Wars 2\addons\arcdps\arcdps.ini"
+2023-11-27 20:55:08.535: info: ready
+2023-11-27 20:55:11.530: extensions: Mechanics 0x7FFA77CC1000-0x7FFA77D6E000 (d3d9_arcdps_mechanics.dll, Feb 12 2023 00:25:34, 0x98AEF35B, 81004122)
+2023-11-27 20:55:11.541: extensions: killproof.me 0x7FFA5AD11000-0x7FFA5AFB5000 (d3d9_arcdps_killproof_me.dll, 2.11.0.0, 0xDC3D3252, 6BAF1938)
+2023-11-27 20:55:11.563: extensions: Boon Table 0x7FFA62351000-0x7FFA6257F000 (d3d9_arcdps_table.dll, 2.5.1.0, 0x3EA65190, 64003268)
+2023-11-27 22:41:21.783: info: closing
